@@ -1,0 +1,7 @@
+{
+  "name": "RevenueDigger",
+  "description": "A high-end Business Intelligence tool that generates strategic reports including Pain Analysis, Market Sizing, and Blue Ocean strategies for specific target personas and locations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
